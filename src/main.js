@@ -7,7 +7,7 @@ console.log(`firstName ${firstName} the type of firstName is ${typeof firstName}
 let firstNumber = 5;
 let secondNumber = "5";
 console.log(`firstNumber ${firstNumber} type of firstNumber is ${typeof firstNumber}`);
-console.log(`secondNumber ${secondNumber} type of secondNumber is ${typeof secondNumber}`)
+console.log(`secondNumber ${secondNumber} type of secondNumber is ${typeof secondNumber}`);
 
 // 3
 let ages = 25;
@@ -80,7 +80,7 @@ console.log('x-- = x - 1');
 let h = 3;
 console.log(`16. h=3 ++h = ${++h}`);
 // if h=3 , ++h=4
-let g = 3
+let g = 3;
 console.log(`16. g=3 g++ = ${g++}`);
 // if g=3, g++=3
 
@@ -100,7 +100,7 @@ console.log(`18. a==b ${a == b}`);
 // 19
 let c = 10;
 let d = 12;
-console.log(`19. a!=b ${a != b}`);
+console.log(`19. c!=d ${c != d}`);
 
 // 20
 let e ="25"; //string
